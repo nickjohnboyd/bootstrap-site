@@ -3,7 +3,7 @@
     justify-content: center;
 }
 .home {
-    margin: 30px auto;
+    margin: 100px auto;
 }
 .h-header {
     margin-bottom: 20px;
@@ -20,4 +20,28 @@
 }
 .h-acc-btn:hover {
     color: darkgrey;
+}
+.models {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 100px auto;
+}
+.m-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.m-header-cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.m-title {
+    margin-bottom: 15px;
+}
+.careers {
+    margin: 30px auto;
 }

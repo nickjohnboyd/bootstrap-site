@@ -45,3 +45,8 @@
 .careers {
     margin: 30px auto;
 }
+.c-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

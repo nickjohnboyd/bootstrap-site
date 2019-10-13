@@ -1,0 +1,23 @@
+.h-card {
+    display: flex;
+    justify-content: center;
+}
+.home {
+    margin: 30px auto;
+}
+.h-header {
+    margin-bottom: 20px;
+}
+.h-accordian {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.h-acc-btn {
+    color: black;
+    text-decoration: none;
+}
+.h-acc-btn:hover {
+    color: darkgrey;
+}

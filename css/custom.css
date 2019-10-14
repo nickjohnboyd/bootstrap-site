@@ -50,3 +50,15 @@
     align-items: center;
     justify-content: center;
 }
+.c-popover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.morebtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
